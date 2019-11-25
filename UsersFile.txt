@@ -1,0 +1,5 @@
+David Moca,tester
+Emil Van Velden,programmer
+Mircea Negrau,programmer
+Alex Indries,programmer
+Adi Mag,tester

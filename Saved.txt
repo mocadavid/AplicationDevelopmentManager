@@ -1,0 +1,4 @@
+Web,closed,Adi Mag,Alex Indries
+Loading time,closed,Adi Mag,Alex Indries
+USB,open,David Moca,None
+Card,open,Adi Mag,None

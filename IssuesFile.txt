@@ -1,0 +1,5 @@
+Android,closed,David Moca,Emil Van Velden
+Smart TV,closed,David Moca,Mircea Negrau
+Web,open,Adi Mag,None
+Loading time,closed,Adi Mag,Alex Indries
+USB,open,David Moca,None
